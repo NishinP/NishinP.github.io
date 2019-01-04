@@ -340,6 +340,7 @@ button:focus,
 @media (max-width : 600px) {
     .header .profile-img {
         z-index : 1;
+        height        : 100%;
         }
 
     .header .content {
